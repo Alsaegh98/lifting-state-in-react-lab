@@ -14,7 +14,7 @@ const IngredientList = ({ ingredients, addToBurger }) => {
         </li>
       ))}
     </ul>
-  );
+  )
 };
 
 export default IngredientList;
